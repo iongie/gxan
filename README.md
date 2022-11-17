@@ -13,7 +13,7 @@ npm i @gixan/icon
 ### Usage
 First you need to include the GxIconModule in your module
 ```typescript
-import { GxIconModule } from '@gixan/icon';
+import { GxIconModule } from '@gxan/icon';
 
 @NgModule({
     imports: [
@@ -25,7 +25,7 @@ import { GxIconModule } from '@gixan/icon';
 
 Next, you need to include the configuration in your component
 ```typescript
-import { Icon, Color, Type } from '@gixan/icon';
+import { Icon, Color, Type } from '@gxan/icon';
 
 ...
 export class AppComponent {
