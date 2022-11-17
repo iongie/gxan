@@ -1,11 +1,11 @@
-# Gixan Icon ![license](https://img.shields.io/npm/l/react-md)
+# Gxan Icon ![license](https://img.shields.io/npm/l/react-md)
 
 Component for Angular
 
 ## Installation
 
 ```sh
-npm i @gixan/icon
+npm i @gxan/icon
 ```
 
 ## Usage
