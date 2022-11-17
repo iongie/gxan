@@ -1,4 +1,4 @@
-# Gixan Icon [![license](https://img.shields.io/npm/l/react-md)]
+# Gixan Icon ![license](https://img.shields.io/npm/l/react-md)
 
 Component for Angular
 
