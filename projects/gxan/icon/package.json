@@ -10,5 +10,20 @@
   },
   "publishConfig": {
     "access": "public"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/iongie/gxan.git"
+  },
+  "keywords": [
+    "icons",
+    "component angular"
+  ],
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/iongie/gxan/issues"
+  },
+  "author": {
+    "name": "Gigih"
   }
 }
